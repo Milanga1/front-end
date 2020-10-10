@@ -43,4 +43,17 @@ textarea:-ms-input-placeholder { color: #4b2354;}
 /*---------------------------------------------*/
 
 /* [ ROUND: 1 || CODE: 7 BY: GOBIA ] */
+button {
+    outline: none !important;
+    border: none;
+    background: transparent;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+iframe {
+    border: none !important;
+}
 
